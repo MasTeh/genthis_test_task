@@ -1,0 +1,11 @@
+{
+  "age_agree": "I agree I am over 18/21 years old",
+  "gender_page_explain": "Please indicate the gender of the person in the photo:",
+  "gender_page_explain2": "What is this question for me?",
+  "gender_page_explain3": "By answering this question, you help the AI do its job better. If you leave the question unanswered, the gender will be selected randomly.",
+  "rules_explain": "The photo should show the same person with different lighting, angle and head tilt. No headgear, glasses and objects and things blocking the face.",
+  "successfull_generation_label": "Successfull generation",
+  "unsuccessfull_generation_label": "Unsuccessfull generation",
+  "waiting_explain1": "In our application we use artificial intelligence, which may produce some inaccuracies (artifacts). Please accept these risks before using the application.",
+  "waiting_explain2": "The more options generated, the more chances for a cool result!"
+}
